@@ -1,0 +1,5 @@
+*****************************video nomber 3: Detecting Orientations***********************
+install react-native-community/hooks for the dimentions and orientations
+if you need how to convert the landscape and portrait mode watch video number 3 detecting orientaion changes
+*****************************video nomber 4: Flex***********************
+position flex etc
